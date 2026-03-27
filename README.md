@@ -18,7 +18,6 @@ We provide code to reproduce the analyses and modeling experiments reported in t
 ---
 
 How to cite
-Paper citation (LREC-COLING 2026)
 
 Please cite the paper if you use the code, derived annotations, or analyses:
 ```
