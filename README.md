@@ -21,6 +21,7 @@ How to cite
 Paper citation (LREC-COLING 2026)
 
 Please cite the paper if you use the code, derived annotations, or analyses:
+```
 
 @inproceedings{ohman2026quality,
   title     = {Quality and Agreement in Multilabel Emotion Annotation: A Case Study and Evaluation Framework},
@@ -31,3 +32,5 @@ Please cite the paper if you use the code, derived annotations, or analyses:
   publisher = {European Language Resources Association (ELRA)},
   url       = {PAPER_URL}
 }
+
+```
