@@ -17,7 +17,7 @@ We provide code to reproduce the analyses and modeling experiments reported in t
 
 ---
 
-How to cite
+# How to cite
 
 Please cite the paper if you use the code, derived annotations, or analyses:
 ```
